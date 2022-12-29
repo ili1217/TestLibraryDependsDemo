@@ -3,7 +3,7 @@
 
 ## Gradle
 ```
-implementation 'com.github.li-xiaojun:XPopup:版本号看上面'
+implementation 'com.github.ili1217:TestLibraryDependsDemo:1.0.0'
 ```
 jitpack还要求在工程根目录的`build.gradle`中添加如下：
 ```
