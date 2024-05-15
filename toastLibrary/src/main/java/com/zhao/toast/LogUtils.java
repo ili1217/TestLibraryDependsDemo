@@ -12,4 +12,8 @@ public class LogUtils {
         System.out.println(date + " ---- " + message);
     }
 
+
+    public static void error(String tag, String message, Throwable throwable) {
+        com.blankj.utilcode.util.LogUtils.e(tag, message, throwable);
+    }
 }
